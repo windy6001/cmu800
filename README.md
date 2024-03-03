@@ -1,11 +1,11 @@
-* What is this?
+# What is this?
 
 アナログシンセ　CMU-800 の音楽をPSG音源で鳴らしてみようとしています。
 (I'm thinking of playing music from the analog synthesizer CMU-800 with PSG sounds.)
 
-* HOW TO BUILD
+# HOW TO BUILD
 
 
-* LISENCE
+# LICENSE
 
-See LISENCE file 
+See LICENE file 
